@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.infrastructure\\cleanstart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj|solutionrelative:cleanstart.infrastructure\\cleanstart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj|solutionrelative:cleanstart.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,19 +67,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanStart.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\appsettings.json",
+              "RelativeToolTip": "CleanStart.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T08:46:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "CleanStart.API\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "CleanStart.API\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:45:28.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CleanStart.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CleanStart.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:44:44.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleanStart.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj",
+              "RelativeToolTip": "CleanStart.Infrastructure\\CleanStart.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T08:43:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanStart.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Program.cs",
+              "RelativeToolTip": "CleanStart.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:42:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CleanStart.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "CleanStart.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBMAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-24T08:03:56.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CleanStart.Infrastructure\\Persistence\\AppDbContext.cs",
@@ -67,8 +152,7 @@
               "RelativeToolTip": "CleanStart.Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T08:03:36.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T08:03:36.916Z"
             }
           ]
         }
