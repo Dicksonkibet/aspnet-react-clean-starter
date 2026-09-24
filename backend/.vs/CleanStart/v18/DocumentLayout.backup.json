@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|c:\\users\\ngeti\\downloads\\cleanstart-template\\cleanstart\\backend\\cleanstart.api\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|CleanStart.API\\CleanStart.API.csproj|solutionrelative:cleanstart.api\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:105774086:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanStart.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Program.cs",
+              "RelativeToolTip": "CleanStart.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T07:26:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Auth\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "CleanStart.API\\Auth\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\ngeti\\Downloads\\CleanStart-template\\CleanStart\\backend\\CleanStart.API\\Auth\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "CleanStart.API\\Auth\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T07:26:00.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
